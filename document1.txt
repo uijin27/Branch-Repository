@@ -1,5 +1,5 @@
 def partition(l, r, nums):
-    # Last element will be the pivot and the first element the pointer
+    # OMG
     pivot, ptr = nums[r], l
     for i in range(l, r):
         if nums[i] <= pivot:
@@ -10,9 +10,7 @@ def partition(l, r, nums):
     nums[ptr], nums[r] = nums[r], nums[ptr]
     return ptr
  
-# With quicksort() function, we will be utilizing the above code to obtain the pointer
-# at which the left values are all smaller than the number at pointer index and vice versa
-# for the right values.
+# op.gg
  
  
 def quicksort(l, r, nums):
