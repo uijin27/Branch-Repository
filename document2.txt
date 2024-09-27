@@ -1,4 +1,4 @@
-// C.P for Merge Sort. not let's go
+// C.P for Merge Sort. play
 #include <stdio.h>
 #include <stdlib.h>
 
