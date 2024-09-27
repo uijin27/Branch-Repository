@@ -1,2 +1,2 @@
-SW
+SW오픈소스
 GitHub
