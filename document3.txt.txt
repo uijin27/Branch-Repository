@@ -1,2 +1,2 @@
-SW오픈소스
+SW오픈호스.txt
 GitHub
